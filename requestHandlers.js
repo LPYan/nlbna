@@ -40,7 +40,7 @@ function nextArrival(request, response) {
 		'<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />'+
 		'</head>'+
 		'<body style="margin: 0px">'+
-		//'<p style="background-color:black; color:white">' + currDate + ' (' + timeDiff + ')</p>'+
+		'<p style="background-color:black; color:white">測試：' + currDate + ' (' + timeDiff + ')</p>'+
 		imgElement+
 		'</body>'+
 		'</html>';
