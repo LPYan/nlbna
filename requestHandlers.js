@@ -39,8 +39,8 @@ function nextArrival(request, response) {
 		'<head>'+
 		'<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />'+
 		'</head>'+
-		'<body style="margin: 0px">'+
-		'<p style="background-color:black; color:white">測試：' + currDate + ' (' + timeDiff + ')</p>'+
+		'<body style="margin: 0px; background-color:white; color:black">'+
+		'<p>測試：' + currDate + ' (' + timeDiff + ')</p>'+
 		imgElement+
 		'</body>'+
 		'</html>';
